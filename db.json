@@ -1,4 +1,5 @@
-[{
+{
+  "users":[{
   "id": 1,
   "userName": "gyuranovev0",
   "avatar": "https://robohash.org/estdignissimossit.jpg?size=100x100&set=set1"
@@ -119,3 +120,5 @@
   "userName": "bwilshawt",
   "avatar": "https://robohash.org/illoquidelectus.png?size=100x100&set=set1"
 }]
+
+}
